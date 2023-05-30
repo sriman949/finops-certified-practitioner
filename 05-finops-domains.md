@@ -7,14 +7,14 @@
 * FinOps Domains represents a sphere of activity or knowledge. 
 * Every organization adopting FinOps will perform activities in all FinOps Domains.
 
-| Domain | Description | 
-| --- | --- | 
-| Understanding Cloud Usage and Cost | What are we SPENDING |
-| Performance Tracking & Benchmarking | What is our HISTORICAL SPEND |
-| Real-Time Decision Making | Get me a DASHBOARD |
-| Cloud Rate Optimization | Get me a DISCOUNT | 
-| Cloud Usage Optimization | Turn stuff OFF |
-| Organizational Alignment | Everybody start MANAGING your spend | 
+| Domain | Description | Real World | 
+| --- | --- | --- |
+| Understanding Cloud Usage and Cost | What are we SPENDING | Get Credit Card Statement |
+| Performance Tracking & Benchmarking | What is our HISTORICAL SPEND | Get previous Credit Card Statements | 
+| Real-Time Decision Making | Get me a DASHBOARD | Login to the Banking Portal |
+| Cloud Rate Optimization | Get me a DISCOUNT | Get Grab Discounts |
+| Cloud Usage Optimization | Turn stuff OFF | Stop ordering Grab |
+| Organizational Alignment | Everybody start MANAGING your spend | Educate Family to not order Grab | 
 <br>
 
 ### Understanding Cloud Usage and Cost - What are we SPENDING
