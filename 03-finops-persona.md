@@ -6,8 +6,8 @@
 ## FinOps Personas
 * The FinOps discipline covers many different personas, understand more about them, their roles, and requirements
 * Try to identify where you fall in these personas
-
 <br>
+
 * FinOps Practitioner
     * Primary Goal: Drive best practices into the organization through education, standardization, and cultural growth and support.
 <br>
