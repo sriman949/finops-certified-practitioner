@@ -3,8 +3,8 @@
 ## Overview
 * The objective of this repository is to provide an overview of the [FinOps Certified Practitioner](https://training.linuxfoundation.org/certification/certified-finops/) certification:
     * Online
-    * Duration of Exam 1 hours
-    * Certification Valid for 2 Years
+    * One hours
+    * Valid for Two Years
     * Two Retakes
     * PDF Certificate and Digital Badge
     * Multiple-Choice Exam
