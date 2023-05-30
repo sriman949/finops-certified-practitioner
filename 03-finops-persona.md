@@ -9,25 +9,30 @@
 <br>
 
 ### FinOps Practitioner
-    * Primary Goal: Drive best practices into the organization through education, standardization, and cultural growth and support.
+* Primary Goal: Drive best practices into the organization through education, standardization, and cultural growth and support.
+
 <br>
 
 ### Executives
-    * CEO - Primary Goal: Assurance that cloud investments are aligned with business objectives.
-    * CTO / CIO - Primary Goal:*Leverage technology* to give the business a market and competitive *advantage*.
-    * CFO - Primary Goal: Manage the cost of cloud utilization (among other costs across the org) and ensuring that money is wisely spent.
+* CEO - Primary Goal: Assurance that cloud investments are aligned with business objectives.
+* CTO / CIO - Primary Goal:*Leverage technology* to give the business a market and competitive *advantage*.
+* CFO - Primary Goal: Manage the cost of cloud utilization (among other costs across the org) and ensuring that money is wisely spent.
+
 <br>
 
 ### Business/Product Owner
-    * Primary Goal: Quickly bring *new products and features* to market with an accurate price point.
+* Primary Goal: Quickly bring *new products and features* to market with an accurate price point.
+
 <br>
 
 ### Engineering and Operations
-    * Primary Goal: Deliver faster and high quality services to the organisation, whilst maintaining business as usual.
+* Primary Goal: Deliver faster and high quality services to the organisation, whilst maintaining business as usual.
+
 <br>
 
 ### Finance
-    * Primary Goal: Accurately budget, forecast, and report cloud costs.
+* Primary Goal: Accurately budget, forecast, and report cloud costs.
+
 <br>
 
 ### Procurement
